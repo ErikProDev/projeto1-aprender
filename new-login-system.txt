@@ -3,3 +3,6 @@ seu nome
 
 Digite seu e-mail:
 seu e-mail
+
+Digite sua senha:
+******
